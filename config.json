@@ -69,7 +69,7 @@
             "only_deploy": false
         },
         {
-            "script": "generator_alias args1 args2 args3",
+            "script": "random_cc 1 9 1 9",
             "description": "",
             "is_example": false,
             "only_deploy": false
