@@ -1,16 +1,16 @@
-# Problem
+Given integers 
+𝑎 and 𝑏
 
-You are given two integers $a$ and $b$.
+Write a program that prints the remainder of 
+𝑎 divided by 𝑏
 
-Print $a + b$.
 
-# Input
+Input
+The first line of input contains integers 
+a and 
+b separated by a single space.
 
-The first line of input contains two integers $a$ and $b$ separated by a space.
-
-* $1 \le a \le 9$
-* $1 \le b \le 9$
-
-# Output
-
-Print $a + b$ on the first line of output.
+Output
+Print the remainder of 
+𝑎 divided by 𝑏
+on the first line.
